@@ -1,6 +1,8 @@
 ## AI算命
 传统与科技融合、趣味与理性结合的​命理推测工具，准确到可怕。
 
+https://chat.openai.com/g/g-cbNeVpiuC
+
 By Jerrold Bergnaum
 
 ````markdown
